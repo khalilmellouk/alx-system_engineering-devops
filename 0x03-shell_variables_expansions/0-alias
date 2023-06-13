@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls="rm *"
+echo “description of file” > README.md
